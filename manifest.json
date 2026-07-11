@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T20:53:38Z",
+  "generatedAt": "2026-07-11T21:02:14Z",
   "files": {
     "tesco": {
       "version": 1,
@@ -33,9 +33,9 @@
       "bytes": 112522
     },
     "coop": {
-      "version": 2,
-      "sha256": "985bb7a917090e5c9ac83504f2a1013c46762c877d1e892b0c170b604d93141d",
-      "bytes": 366228
+      "version": 3,
+      "sha256": "13a6cf937ae8ed73b051de9cef4358c00ffc8db2a538fd0b1a521ca79e6e556b",
+      "bytes": 359807
     },
     "iceland": {
       "version": 2,

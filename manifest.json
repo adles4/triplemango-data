@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T21:02:14Z",
+  "generatedAt": "2026-07-11T21:29:41Z",
   "files": {
     "tesco": {
-      "version": 1,
-      "sha256": "d9af150335acaee04c6948d41fd729ba323d0c445f02fc21a66258506a645e46",
-      "bytes": 311318
+      "version": 2,
+      "sha256": "d0b72a8db8a11629c44fd8e0f289f72e962a65c2f724df2bdba9fd0f840a34ed",
+      "bytes": 311329
     },
     "waitrose": {
-      "version": 1,
-      "sha256": "3450557b414d85c102cbb422b91e5f4a6327dcdb0de42529e11f7fa02ca21713",
-      "bytes": 43995
+      "version": 2,
+      "sha256": "b7774e6ee2d6de7ea30674e72c9272ac95870e8dea4639ea1565c937e4181342",
+      "bytes": 43977
     },
     "marksspencers": {
-      "version": 2,
-      "sha256": "512bf7628b03af7e724e6989022ebb1c4adaec97d5d86d044e40ea7931a7a9c5",
-      "bytes": 110998
+      "version": 3,
+      "sha256": "3c149fe5f0ef1776f6f0bff506f65d4e2c398baf0025451616b6df9dd9e57ce5",
+      "bytes": 110898
     },
     "sainsburys": {
       "version": 1,
@@ -28,9 +28,9 @@
       "bytes": 102932
     },
     "asda": {
-      "version": 2,
-      "sha256": "b12296538880fe4c235dc70d486329196f069a7a0c4935b4e9ee000e2b831fef",
-      "bytes": 112522
+      "version": 3,
+      "sha256": "91fe66e7aefb135495fe262b6eb279426e9d11201ff3e3dd78edee53cd4cc3e0",
+      "bytes": 112159
     },
     "coop": {
       "version": 3,
@@ -48,9 +48,9 @@
       "bytes": 100016
     },
     "morrisons": {
-      "version": 2,
-      "sha256": "6727de8c9992486cb2f79d271997850282d6e4269629e895627eda60f082695a",
-      "bytes": 166894
+      "version": 3,
+      "sha256": "ded3ba9b7d2c984a639a2053a466c6317ff3344c0a3fcbb561311afac8f9275f",
+      "bytes": 166698
     },
     "cineworld": {
       "version": 2,

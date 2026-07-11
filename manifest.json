@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T18:15:47Z",
+  "generatedAt": "2026-07-11T20:38:46Z",
   "files": {
     "tesco": {
       "version": 1,
@@ -13,9 +13,9 @@
       "bytes": 43995
     },
     "marksspencers": {
-      "version": 1,
-      "sha256": "5bd9422a3317e65fa4e5789f42641f8d866f20146bdd719486ba8f8be8519f9f",
-      "bytes": 108474
+      "version": 2,
+      "sha256": "512bf7628b03af7e724e6989022ebb1c4adaec97d5d86d044e40ea7931a7a9c5",
+      "bytes": 110998
     },
     "sainsburys": {
       "version": 1,
@@ -23,34 +23,34 @@
       "bytes": 165268
     },
     "aldi": {
-      "version": 1,
-      "sha256": "4590009c54d66449836c21a90560a436eb2705fd36afef99715c6ad582fca443",
-      "bytes": 100315
+      "version": 2,
+      "sha256": "181b7f13e4596f2699b6274efecc58805a9cce718713297dd2512a4ccda9bf19",
+      "bytes": 102932
     },
     "asda": {
-      "version": 1,
-      "sha256": "487636228c2bef507b6e2cae0b13073f59ca6bd0d146933e5b57e5d47bcf3907",
-      "bytes": 109003
+      "version": 2,
+      "sha256": "b12296538880fe4c235dc70d486329196f069a7a0c4935b4e9ee000e2b831fef",
+      "bytes": 112522
     },
     "coop": {
-      "version": 1,
-      "sha256": "8540af2dba8e630d1f866539bb2d0310057310498a0469568d6e8abfe6b0f2eb",
-      "bytes": 359218
+      "version": 2,
+      "sha256": "985bb7a917090e5c9ac83504f2a1013c46762c877d1e892b0c170b604d93141d",
+      "bytes": 366228
     },
     "iceland": {
-      "version": 1,
-      "sha256": "6fead9e05b626208bc4ceafe7475f587f2967f2e835d5c9b420075496ed1ff65",
-      "bytes": 97507
+      "version": 2,
+      "sha256": "584d6b31a297a1c8395071818df654149a11b716328bb21462451a35c02ba6ed",
+      "bytes": 99657
     },
     "lidl": {
-      "version": 1,
-      "sha256": "3df8b725b064c5a54d0304684deef6c0f8b2c9ee42a24e30bfd45620cc4d6fc3",
-      "bytes": 96282
+      "version": 2,
+      "sha256": "303d79c12cc62da6f20bac535c65f4fea82daaf77f39ed428a1037fed29f4efe",
+      "bytes": 100016
     },
     "morrisons": {
-      "version": 1,
-      "sha256": "06bf644e57980b70be8038bbf3164aec662189cfa547a9cc9afbc264c95817ed",
-      "bytes": 159909
+      "version": 2,
+      "sha256": "6727de8c9992486cb2f79d271997850282d6e4269629e895627eda60f082695a",
+      "bytes": 166894
     },
     "cineworld": {
       "version": 1,

@@ -1,56 +1,56 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-11T23:21:35Z",
+  "generatedAt": "2026-08-31T10:20:42Z",
   "files": {
     "tesco": {
-      "version": 2,
-      "sha256": "d0b72a8db8a11629c44fd8e0f289f72e962a65c2f724df2bdba9fd0f840a34ed",
-      "bytes": 311329
+      "version": 3,
+      "sha256": "74bb0ac65db8f4b4ccc4c20539bb715e7cc9b57e323d70f833c26770a5f32415",
+      "bytes": 312900
     },
     "waitrose": {
-      "version": 2,
-      "sha256": "b7774e6ee2d6de7ea30674e72c9272ac95870e8dea4639ea1565c937e4181342",
-      "bytes": 43977
+      "version": 3,
+      "sha256": "2881263d0fbda3f52a2c4f6f5e82256b87d03ce128abc2f11a2bbe7dd24984ea",
+      "bytes": 44091
     },
     "marksspencers": {
-      "version": 3,
-      "sha256": "3c149fe5f0ef1776f6f0bff506f65d4e2c398baf0025451616b6df9dd9e57ce5",
-      "bytes": 110898
+      "version": 4,
+      "sha256": "9698a6f950b29008844638a16679625b046cc5fe775031ed51d5353e2bac6309",
+      "bytes": 111098
     },
     "sainsburys": {
-      "version": 1,
-      "sha256": "47893803b8c388c72a114223666d3f16563caf901797322d1e67d4530f3b182e",
-      "bytes": 165268
+      "version": 2,
+      "sha256": "9191121fc583bb8c3c72a2cd2c9f916c8171f53e3c0b65b986f51d824a6bc72e",
+      "bytes": 165609
     },
     "aldi": {
-      "version": 2,
-      "sha256": "181b7f13e4596f2699b6274efecc58805a9cce718713297dd2512a4ccda9bf19",
-      "bytes": 102932
+      "version": 3,
+      "sha256": "b6f65ed08a13d46a55ec2318793c3a25c1fa292e6bd4870e9652904598295660",
+      "bytes": 103021
     },
     "asda": {
-      "version": 3,
-      "sha256": "91fe66e7aefb135495fe262b6eb279426e9d11201ff3e3dd78edee53cd4cc3e0",
-      "bytes": 112159
+      "version": 4,
+      "sha256": "13d3f66c13571edda7a63ec09afce7dc29f7e6a72cc93e6d72f1e1c5cb801e08",
+      "bytes": 113205
     },
     "coop": {
-      "version": 3,
-      "sha256": "13a6cf937ae8ed73b051de9cef4358c00ffc8db2a538fd0b1a521ca79e6e556b",
-      "bytes": 359807
+      "version": 4,
+      "sha256": "eb035e9b28882205b9e94b35afa9dc376884ffca437a2157c013ba4b4efd8014",
+      "bytes": 361826
     },
     "iceland": {
-      "version": 2,
-      "sha256": "584d6b31a297a1c8395071818df654149a11b716328bb21462451a35c02ba6ed",
-      "bytes": 99657
+      "version": 3,
+      "sha256": "990513cd57e95225c477477575624e426eb2fb41ff8c6d1194e63ca068bccb15",
+      "bytes": 99923
     },
     "lidl": {
-      "version": 2,
-      "sha256": "303d79c12cc62da6f20bac535c65f4fea82daaf77f39ed428a1037fed29f4efe",
-      "bytes": 100016
+      "version": 3,
+      "sha256": "f6219caca1f95c00ce272f52723ce7fa6f4762e7164f50c681f77f3bd641e761",
+      "bytes": 100411
     },
     "morrisons": {
-      "version": 3,
-      "sha256": "ded3ba9b7d2c984a639a2053a466c6317ff3344c0a3fcbb561311afac8f9275f",
-      "bytes": 166698
+      "version": 4,
+      "sha256": "7558dcd7ffa9922a6974c4945f11169dd8d1afb40e533d462ad6725a19ed990c",
+      "bytes": 168459
     },
     "cineworld": {
       "version": 2,
@@ -61,6 +61,11 @@
       "version": 1,
       "sha256": "6fdaab46a620d2a3453565273905f84af4642ff72a5a27ea7e6c787c6507bf5b",
       "bytes": 172555
+    },
+    "watchhouse": {
+      "version": 1,
+      "sha256": "3770534ce8dee5a1de9850c9266eede10409631abc51961d2542b86aaf71c99b",
+      "bytes": 2149
     }
   }
 }
